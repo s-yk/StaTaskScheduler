@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaTaskScheduler", "StaTaskScheduler\StaTaskScheduler.csproj", "{B2CF528B-7AD6-4B36-94CB-C02B86C2A228}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaTaskSchedulerTest", "StaTaskSchedulerTest\StaTaskSchedulerTest.csproj", "{BAFB1086-27BE-4064-AAF8-CDBA04822996}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B2CF528B-7AD6-4B36-94CB-C02B86C2A228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2CF528B-7AD6-4B36-94CB-C02B86C2A228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2CF528B-7AD6-4B36-94CB-C02B86C2A228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFB1086-27BE-4064-AAF8-CDBA04822996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFB1086-27BE-4064-AAF8-CDBA04822996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFB1086-27BE-4064-AAF8-CDBA04822996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFB1086-27BE-4064-AAF8-CDBA04822996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
